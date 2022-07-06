@@ -1,0 +1,13 @@
+com\movie\library\controller\MovieController.class
+com\movie\library\service\IMovieService.class
+com\movie\library\service\MovieServiceImpl.class
+com\movie\library\dto\ActorDto$ActorDtoBuilder.class
+com\movie\library\util\MovieMapperImpl.class
+com\movie\library\dto\ActorDto.class
+com\movie\library\repository\model\Movie.class
+com\movie\library\util\MovieMapper.class
+com\movie\library\ApplicationMain.class
+com\movie\library\repository\IMovieRepository.class
+com\movie\library\dto\MovieDto$MovieDtoBuilder.class
+com\movie\library\repository\model\Actor.class
+com\movie\library\dto\MovieDto.class
